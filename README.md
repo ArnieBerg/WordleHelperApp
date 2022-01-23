@@ -23,12 +23,12 @@ Together, we'll solve this thing every time!
 
 ## Installation in Windows
 
-1. Clone the repository by clicking on 'Code' and then 'Download ZIP'.
+1. Get a copy of the puzzle program by clicking on 'Code' and then 'Download ZIP'.
 
-2. When the Zip file is downloaded, double click on the Zip file to unzip it, copy and save the 
-   WordleHelper-main folder somewhere on your computer.
+2. When the Zip file is downloaded, double click on the Zip file to unzip it, extract the WordleHelper-main
+   folder and save the WordleHelper-main folder somewhere on your computer.
 
-3. Double-click on the WordleCheatApp.exe file in the WordleHelper-main folder. If you get a security
+3. Double-click on the WordleHelperApp.exe file in the WordleHelper-main folder. If you get a security
    warning, click on 'More information' and 'Run anyway'.
 
 4. Once the app opens, you can click on the ‘?’ to read the app help.
