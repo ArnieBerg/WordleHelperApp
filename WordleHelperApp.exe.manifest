@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WordleHelper.dll" size="134144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WordleHelper.dll" size="168960">
       <assemblyIdentity name="WordleHelper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Uzl/DcR89U7aaDRDXoXRWvANZBn1hgtBw8bhwt3jX9Y=</dsig:DigestValue>
+        <dsig:DigestValue>r5ogcT8R6f9hnNwkn3lowfE1X8pzbSNFqysDJ1sAIsE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
