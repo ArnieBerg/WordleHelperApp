@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
   <asmv1:assemblyIdentity name="WordleHelperApp.exe" version="1.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="W.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
     <assemblyIdentity name="WordleHelperApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WordleHelper.dll" size="168960">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WordleHelper.dll" size="381440">
       <assemblyIdentity name="WordleHelper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>r5ogcT8R6f9hnNwkn3lowfE1X8pzbSNFqysDJ1sAIsE=</dsig:DigestValue>
+        <dsig:DigestValue>A3psGybA+7p27zoWmu5DPUnYUyWXydsj0xHV860G1r4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WordleHelperApp.exe" size="7096">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WordleHelperApp.exe" size="219576">
       <assemblyIdentity name="WordleHelperApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ETXQNWPZw8nMLzyth2JG2D5UVsx34rtv8ZRFvWDILJ4=</dsig:DigestValue>
+        <dsig:DigestValue>MZ+NLUJIuD5jn3oCsHi9YktUY/1ozCgFdndiCPVTmdI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -72,6 +73,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>JGmPuEGx4jJ4/I+SmC+QSccwddTnH8hI+7B7d+DyAjw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="W.ico" size="212318">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Jd1zdHxuvJvJmvkP2tD6IUZGRR58FxRm+XZgg4lA/AY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WordleHelperApp.exe.config" size="187">

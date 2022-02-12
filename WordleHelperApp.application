@@ -14,14 +14,14 @@
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="WordleHelperApp.exe.manifest" size="4538">
+    <dependentAssembly dependencyType="install" codebase="WordleHelperApp.exe.manifest" size="5008">
       <assemblyIdentity name="WordleHelperApp.exe" version="1.0.0.6" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0xkF6rJXbSGu5XGY7M41OUdOuwZy5k26FBiy+b3HdqE=</dsig:DigestValue>
+        <dsig:DigestValue>5ubQmJ7RfbxoOhiZ1e+fbXECzZZcKP5TRBKRIX1eVog=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
